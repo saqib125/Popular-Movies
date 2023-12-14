@@ -6,8 +6,47 @@
 	<dict>
 		<key>PopularMovies.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>PopularMoviesTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>testingPopularMoviesData.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>70E08FC42B299C8B00ECAA03</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>70E08FD42B299C8E00ECAA03</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>70E08FDE2B299C8E00ECAA03</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>70E0901C2B2AD5F300ECAA03</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
